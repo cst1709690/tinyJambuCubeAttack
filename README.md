@@ -34,7 +34,7 @@ Additional results for the attacks of DA1 and DA2 or KRA2 (both types of techniq
 - `[DA2] Full Cube Space.xlsm`: The results in this file contain all of the 652 cube testers of size 15 and one cube tester of size 25.
 - `[DA2] Reduced Cube Space (Technique 1).xlsm` and `[DA2] Reduced Cube Space (Technique 2).xlsm`: The results in these two files contain the cubes and cube testers with their corresponding superpolies and distinguisher values according to the two techniques discussed in the paper. Cubes that are highlighted in red indicate that the superpolies of the cubes fail the linearity tests when they are tested for a higher number of linearity tests than the number designated by the parameters.
 
-## Discussion of Each Attack
+# Discussion for Each Attack
 
 For more information on each of the attacks, please refer to the paper.
 
