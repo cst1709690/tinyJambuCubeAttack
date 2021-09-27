@@ -1,6 +1,6 @@
 # Background
 
-This repository stores the collection of C++ source codes for the implementation of cube attack on the first version of TinyJAMBU (Wu & Huang, 2019), a finalist cipher in the Lightweight Cryptography (LWC) Standardisation Project organised by the National Institute of Standards and Technology (NIST). Additional results that are not presented in the paper are also included in the repository.
+This repository stores the collection of C++ source codes for the implementation of cube attack on the first version of TinyJAMBU (Wu & Huang, 2019), a finalist cipher in the Lightweight Cryptography (LWC) Standardisation Project organised by the National Institute of Standards and Technology (NIST). Additional results that are not presented in the paper ([pre-print version](https://eprint.iacr.org/2021/1164.pdf)) are also included in the repository.
 
 # General Description of the Implementation for Each Attack
 
@@ -36,7 +36,7 @@ Additional results for the attacks of DA1 and DA2 or KRA2 (both types of techniq
 
 # Discussion for Each Attack
 
-For more information on each of the attacks, please refer to the paper.
+For more information on each of the attacks, please refer to the paper ([pre-print version](https://eprint.iacr.org/2021/1164.pdf)).
 
 # Reference
 
